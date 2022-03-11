@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 2.7,
+          "height": 2.7,
+          "width": 2.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -486,6 +486,10 @@
     [
       "43d030b0-c46c-4448-bc9e-987f12c7559d",
       "mikrobus"
+    ],
+    [
+      "d07bc7d6-5333-4650-bc08-607b230f59b2",
+      "camera"
     ]
   ],
   "text_variables": {}
