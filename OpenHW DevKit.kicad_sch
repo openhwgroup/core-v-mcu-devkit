@@ -1095,7 +1095,7 @@
     (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/d32e6966-5cf5-4dfb-b22f-1fe279445894"
       (reference "#PWR0109") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/e1457767-5d0f-459a-8b9e-e53e3f2d2c31"
+    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/6b2215a5-0087-4598-b972-da9a4e4d1647"
       (reference "#PWR0110") (unit 1) (value "VCC") (footprint "")
     )
     (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/d92f1200-4d64-4a47-b249-9cd5259b3d13"
@@ -1104,26 +1104,26 @@
     (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/aa34894e-8922-454a-bef8-087cf57dd1db"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
+    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/0aba83f1-82e5-4310-a562-8395ab353a94"
+      (reference "#PWR0113") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/1a2fe06e-6fc0-4c51-b6c9-607f503f65c9"
+      (reference "#PWR0114") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/69f1de4f-d909-44fa-96e3-5d7cdc7963b4"
+      (reference "#PWR0115") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/27a91707-0ee9-452a-a6a3-f32078ecc3df"
       (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
     )
     (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/4454d033-2ceb-4971-83ce-629e6ace95a9"
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
     )
-    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/0aba83f1-82e5-4310-a562-8395ab353a94"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/1a2fe06e-6fc0-4c51-b6c9-607f503f65c9"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/69f1de4f-d909-44fa-96e3-5d7cdc7963b4"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/6b2215a5-0087-4598-b972-da9a4e4d1647"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
     (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/d1b7cdd9-8dcd-4593-b1ad-ab23b6e52af7"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+      (reference "#PWR0118") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
+      (reference "#PWR0119") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/0f04658e-bc58-402e-baec-b0a803f67eac/1b56f3ba-4d39-4025-9763-b58fa014691d"
       (reference "C1") (unit 1) (value "12.5pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1266,7 +1266,7 @@
     (path "/0f04658e-bc58-402e-baec-b0a803f67eac/ccb7b5ec-8df3-4568-a2e3-9fa238ba63d2"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
-    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/c3272cb7-0efd-4ecd-b8fc-74d964e15522"
+    (path "/05c5e7d7-6e8b-47d0-a3ba-1eadff858466/dfc80835-cbb3-4bd0-9847-9245d1134c88"
       (reference "JP2") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
     )
     (path "/0f04658e-bc58-402e-baec-b0a803f67eac/5651775d-3fcd-4cc9-b395-77df9fb2d2c5"
