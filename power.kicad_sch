@@ -1055,6 +1055,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 825c7e13-c2ee-4044-b5f0-68c305cd0d4f)
   )
+  (text "Copyright and related rights are licensed under the Solderpad Hardware License, Version 0.51 (the \"License\");\nyou may not use this file except in compliance with the License.  You may obtain a copy of the License at\nhttp://solderpad.org/licenses/SHL-0.51. Unless required by applicable law or agreed to in writing, software,\nhardware and materials distributed under this License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR\nCONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing\npermissions and limitations under the License.\n"
+    (at 179.07 179.07 0)
+    (effects (font (size 1 1)) (justify left bottom))
+    (uuid 96e81bca-7b61-45b0-a84b-5f3b3b51f0d1)
+  )
 
   (global_label "0.9V" (shape input) (at 172.72 133.35 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
