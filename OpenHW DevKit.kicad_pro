@@ -486,7 +486,11 @@
     ],
     [
       "43d030b0-c46c-4448-bc9e-987f12c7559d",
-      "mikrobus"
+      "mikrobus and sensors"
+    ],
+    [
+      "de268494-d8df-4048-8e82-8343b42749bc",
+      "camera"
     ]
   ],
   "text_variables": {}
