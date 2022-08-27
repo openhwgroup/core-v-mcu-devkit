@@ -1065,12 +1065,12 @@
     (uuid ffa67772-4319-4da2-886e-caeb277f5ee8)
   )
 
-  (text "Copyright and related rights are licensed under the Solderpad Hardware License, Version 0.51 (the \"License\");\nyou may not use this file except in compliance with the License.  You may obtain a copy of the License at\nhttp://solderpad.org/licenses/SHL-0.51. Unless required by applicable law or agreed to in writing, software,\nhardware and materials distributed under this License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR\nCONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing\npermissions and limitations under the License.\n"
+  (text "Copyright and related rights are licensed under the Solderpad Hardware License, Version 2.1 (the \"License\");\nyou may not use this file except in compliance with the License.  You may obtain a copy of the License at\nhttp://solderpad.org/licenses/SHL-2.1. Unless required by applicable law or agreed to in writing, software,\nhardware and materials distributed under this License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR\nCONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing\npermissions and limitations under the License.\n"
     (at 180.34 177.8 0)
     (effects (font (size 1 1)) (justify left bottom))
-    (uuid 76a10c0b-6cb7-464f-9327-60d8d92cce59)
+    (uuid 1ecf40c3-e402-4b3e-a7bc-376e69da33b5)
   )
-  (text "ExpressLink" (at 139.7 43.18 0)
+  (text "AWS IoT ExpressLink" (at 152.4 45.72 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 81011af0-aa75-45b9-b28e-311f9f403a5a)
   )
