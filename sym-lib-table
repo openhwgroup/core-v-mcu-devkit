@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "OpenHW")(type "KiCad")(uri "${KIPRJMOD}/OpenHW.kicad_sym")(options "")(descr ""))
+  (lib (name "PI4ULS3V302XVEX")(type "KiCad")(uri "${KIPRJMOD}/project parts/PI4ULS3V302XVEX/PI4ULS3V302XVEX.kicad_sym")(options "")(descr ""))
+  (lib (name "PI6ULS5V9306")(type "KiCad")(uri "${KIPRJMOD}/project parts/PI6ULS5V9306.kicad_sym")(options "")(descr ""))
+)
