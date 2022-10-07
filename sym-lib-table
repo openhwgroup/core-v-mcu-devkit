@@ -2,4 +2,6 @@
   (lib (name "OpenHW")(type "KiCad")(uri "${KIPRJMOD}/OpenHW.kicad_sym")(options "")(descr ""))
   (lib (name "PI4ULS3V302XVEX")(type "KiCad")(uri "${KIPRJMOD}/project parts/PI4ULS3V302XVEX/PI4ULS3V302XVEX.kicad_sym")(options "")(descr ""))
   (lib (name "PI6ULS5V9306")(type "KiCad")(uri "${KIPRJMOD}/project parts/PI6ULS5V9306.kicad_sym")(options "")(descr ""))
+  (lib (name "AP62150")(type "KiCad")(uri "${KIPRJMOD}/project parts/AP62150/2022-10-05_21-50-22.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX6842")(type "KiCad")(uri "${KIPRJMOD}/project parts/MAX6842DUKD0/MAX6842DUKD0.kicad_sym")(options "")(descr ""))
 )
