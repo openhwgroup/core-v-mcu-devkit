@@ -39,9 +39,9 @@
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15,
+        "silk_text_size_h": 0.635,
+        "silk_text_size_v": 0.635,
+        "silk_text_thickness": 0.127,
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
@@ -356,7 +356,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.1524,
+        "clearance": 0.127,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1524,
@@ -373,7 +373,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.1524,
+        "clearance": 0.127,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1524,
@@ -393,7 +393,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.1524,
+        "clearance": 0.127,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1524,

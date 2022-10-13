@@ -2699,6 +2699,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3d4150d9-d1a7-4b9f-a1b4-79ebcb942e5f)
   )
+  (label "VBUS" (at 46.99 60.96 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b53c8bea-e219-4814-ae23-8e2324a70675)
+  )
 
   (global_label "osci" (shape input) (at 38.1 170.18 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
