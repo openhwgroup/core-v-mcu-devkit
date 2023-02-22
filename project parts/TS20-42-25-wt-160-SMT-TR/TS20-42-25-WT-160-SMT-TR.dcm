@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS20-42-25-WT-160-SMT-TR
+D Tactile Switches 4.2 x 3.2 mm, 2.5 mm Actuator Height, 160 gf, White, Surface Mount, TR, SPST, Tactile Switch
+K
+F https://www.cuidevices.com/product/resource/ts20.pdf
+$ENDCMP
+#
+#End Doc Library
