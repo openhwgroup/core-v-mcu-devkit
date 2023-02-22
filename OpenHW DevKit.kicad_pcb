@@ -3317,7 +3317,7 @@
       (net 36 "Net-(C31-Pad1)") (pinfunction "2") (pintype "passive") (tstamp f453118f-f034-409d-828e-3334a094efd6))
     (pad "2" smd rect (at 2.075 1.075 270) (size 0.65 1.05) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 36 "Net-(C31-Pad1)") (pinfunction "2") (pintype "passive") (tstamp fd627dae-c32e-46aa-9e07-85cf48d35d4d))
-    (model "TS20-42-25-WT-160-SMT-TR.stp"
+    (model "${KIPRJMOD}/project parts/3.2x4.2 button.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9196,7 +9196,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 90 180))
     )
-    (model "${KIPRJMOD}/project parts/HM01B0 Camera.step"
+    (model "${KIPRJMOD}/project parts/HIMAX Camera.step"
       (offset (xyz 3.5 -21.5 0.5))
       (scale (xyz 0.9 0.9 0.9))
       (rotate (xyz -90 0 180))
@@ -9320,7 +9320,7 @@
       (net 152 "Net-(U5-*MR)") (pinfunction "2") (pintype "passive") (tstamp fc9967e9-f969-4e37-b899-77359e38c9ce))
     (pad "2" smd rect (at 2.075 1.075 270) (size 0.65 1.05) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 152 "Net-(U5-*MR)") (pinfunction "2") (pintype "passive") (tstamp 48d41559-ebc1-4689-a8ea-140b30eec623))
-    (model "TS20-42-25-WT-160-SMT-TR.stp"
+    (model "${KIPRJMOD}/project parts/3.2x4.2 button.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -21602,6 +21602,9 @@
   )
   (gr_text "SCK" (at 170.2 73.5) (layer "F.SilkS") (tstamp 475f8768-7a62-4634-b738-4ac859036106)
     (effects (font (size 0.635 0.635) (thickness 0.127) bold))
+  )
+  (gr_text "+5V Not Connected" (at 186.7 88.1) (layer "F.SilkS") (tstamp 531adb99-4d8c-4395-83a1-ddfa7ca16048)
+    (effects (font (size 0.635 0.635) (thickness 0.127)))
   )
   (gr_text "MISO" (at 170.4 76) (layer "F.SilkS") (tstamp 5663440c-4678-4b87-9941-aeca53ff3111)
     (effects (font (size 0.635 0.635) (thickness 0.127) bold))
