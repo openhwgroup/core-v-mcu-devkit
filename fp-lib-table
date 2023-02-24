@@ -7,4 +7,5 @@
   (lib (name "NTB0104")(type "KiCad")(uri "${KIPRJMOD}/project parts/IC_NXP Semiconductors_NTB0104BQ,115/eec.pretty")(options "")(descr ""))
   (lib (name "FXMA2102UMX")(type "KiCad")(uri "${KIPRJMOD}/project parts/FXMA2102UMX/footprints.pretty")(options "")(descr ""))
   (lib (name "Button")(type "KiCad")(uri "${KIPRJMOD}/project parts/TS20-42-25-wt-160-SMT-TR")(options "")(descr ""))
+  (lib (name "MP6400")(type "KiCad")(uri "${KIPRJMOD}/project parts/MP6400/footprints.pretty")(options "")(descr ""))
 )
