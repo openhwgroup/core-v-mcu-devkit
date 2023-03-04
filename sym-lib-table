@@ -9,4 +9,5 @@
   (lib (name "FXMA2102UMX")(type "KiCad")(uri "${KIPRJMOD}/project parts/FXMA2102UMX/FXMA2102UMX.kicad_sym")(options "")(descr ""))
   (lib (name "TS20-42-25-wt-160")(type "KiCad")(uri "${KIPRJMOD}/project parts/TS20-42-25-wt-160-SMT-TR/TS20-42-25-WT-160-SMT-TR.kicad_sym")(options "")(descr ""))
   (lib (name "MP6400")(type "KiCad")(uri "${KIPRJMOD}/project parts/MP6400/2023-02-23_21-30-09.kicad_sym")(options "")(descr ""))
+  (lib (name "devkits_qr")(type "KiCad")(uri "${KIPRJMOD}/project parts/devkits_qr.kicad_sym")(options "")(descr ""))
 )
