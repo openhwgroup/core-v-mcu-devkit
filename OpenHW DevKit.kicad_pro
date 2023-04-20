@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.25
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -482,7 +482,11 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "+VDC": "bigpower",
+      "/jtag and uart/VBUS": "bigpower",
+      "Net-(D11-ANODE)": "bigpower"
+    },
     "netclass_patterns": [
       {
         "netclass": "bigpower",
