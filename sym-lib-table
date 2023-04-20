@@ -14,4 +14,5 @@
   (lib (name "usb")(type "KiCad")(uri "${KIPRJMOD}/project parts/USB4105_GF_A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
   (lib (name "diode")(type "KiCad")(uri "${KIPRJMOD}/project parts/Diode_Diodes_BAT760-7/eec.kicad_sym")(options "")(descr ""))
   (lib (name "barrel")(type "KiCad")(uri "${KIPRJMOD}/project parts/PJ_002B/PJ-002B.kicad_sym")(options "")(descr ""))
+  (lib (name "jtag header")(type "KiCad")(uri "${KIPRJMOD}/project parts/CNC-3220-10-0100-00/CNC-3220-10-0100-00.kicad_sym")(options "")(descr ""))
 )

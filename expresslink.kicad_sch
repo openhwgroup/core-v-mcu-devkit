@@ -1621,7 +1621,7 @@
     (property "Value" "ESP32-C3-MINI-1" (at 161.925 50.1904 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Espressif:ESP32-C3-MINI-1" (at 161.29 116.84 0)
+    (property "Footprint" "espressif:ESP32-C3-MINI-1" (at 161.29 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf" (at 99.06 116.84 0)
