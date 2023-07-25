@@ -5,12 +5,12 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "Connector_Generic:Conn_01x24" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "Connector_Generic_MountingPin:Conn_01x24_MountingPin" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 30.48 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "Conn_01x24" (at 0 -33.02 0)
-        (effects (font (size 1.27 1.27)))
+      (property "Value" "Conn_01x24_MountingPin" (at 1.27 -33.02 0)
+        (effects (font (size 1.27 1.27)) (justify left))
       )
       (property "Footprint" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -21,13 +21,13 @@
       (property "ki_keywords" "connector" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Generic connector, single row, 01x24, script generated (kicad-library-utils/schlib/autogen/connector/)" (at 0 0 0)
+      (property "ki_description" "Generic connectable mounting pin connector, single row, 01x24, script generated (kicad-library-utils/schlib/autogen/connector/)" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_fp_filters" "Connector*:*_1x??_*" (at 0 0 0)
+      (property "ki_fp_filters" "Connector*:*_1x??-1MP*" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "Conn_01x24_1_1"
+      (symbol "Conn_01x24_MountingPin_1_1"
         (rectangle (start -1.27 -30.353) (end 0 -30.607)
           (stroke (width 0.1524) (type default))
           (fill (type none))
@@ -128,6 +128,17 @@
           (stroke (width 0.254) (type default))
           (fill (type background))
         )
+        (polyline
+          (pts
+            (xy -1.016 -32.512)
+            (xy 1.016 -32.512)
+          )
+          (stroke (width 0.1524) (type default))
+          (fill (type none))
+        )
+        (text "Mounting" (at 0 -32.131 0)
+          (effects (font (size 0.381 0.381)))
+        )
         (pin passive line (at -5.08 27.94 0) (length 3.81)
           (name "Pin_1" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -223,6 +234,10 @@
         (pin passive line (at -5.08 7.62 0) (length 3.81)
           (name "Pin_9" (effects (font (size 1.27 1.27))))
           (number "9" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 0 -35.56 90) (length 3.048)
+          (name "MountPin" (effects (font (size 1.27 1.27))))
+          (number "MP" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -814,6 +829,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 162.56 129.54 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6bd2f530-15e1-4b4a-b3c5-d90fa0508b04)
+    (property "Reference" "#PWR0117" (at 162.56 135.89 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 162.56 133.9834 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 162.56 129.54 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 162.56 129.54 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 847524e3-d5e9-4b61-a37d-2e8034e7b48d))
+    (instances
+      (project "OpenHW DevKit"
+        (path "/b0906e10-2fbc-4309-a8b4-6fc4cd1a5490/de268494-d8df-4048-8e82-8343b42749bc"
+          (reference "#PWR0117") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Regulator_Linear:AP2127K-2.8") (at 118.11 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 790ae92e-c55a-43b2-b077-babb1b358448)
@@ -919,7 +959,7 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x24") (at 162.56 93.98 0) (unit 1)
+  (symbol (lib_id "Connector_Generic_MountingPin:Conn_01x24_MountingPin") (at 162.56 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5879ab2-b938-41a3-ab1b-ec5c0551f7a8)
     (property "Reference" "J6" (at 164.592 94.4153 0)
@@ -958,6 +998,7 @@
     (pin "7" (uuid 6335d0a4-3503-455f-8a16-33bc2cc40641))
     (pin "8" (uuid 5d2142a2-f5ce-4a20-b509-6fc8dca8fa51))
     (pin "9" (uuid 3324d408-a5b9-4560-951d-d219dc33ad00))
+    (pin "MP" (uuid 21a7fb40-405d-403d-a1b1-915c450c5693))
     (instances
       (project "OpenHW DevKit"
         (path "/b0906e10-2fbc-4309-a8b4-6fc4cd1a5490/de268494-d8df-4048-8e82-8343b42749bc"
