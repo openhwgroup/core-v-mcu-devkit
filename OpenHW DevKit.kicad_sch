@@ -13880,7 +13880,7 @@
   (symbol (lib_id "OpenHW:Devkit_QR") (at 43.18 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87bb2351-6cc0-45da-a8fa-a2d8bf6a110d)
-    (property "Reference" "QR-Code" (at 45.72 233.68 0)
+    (property "Reference" "QR-Code1" (at 45.72 233.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "~" (at 43.18 233.68 0)
@@ -13895,7 +13895,7 @@
     (instances
       (project "OpenHW DevKit"
         (path "/b0906e10-2fbc-4309-a8b4-6fc4cd1a5490"
-          (reference "QR-Code") (unit 1)
+          (reference "QR-Code1") (unit 1)
         )
       )
     )
