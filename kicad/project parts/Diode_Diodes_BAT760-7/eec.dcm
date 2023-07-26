@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT760-7
+D BAT760-7
+F https://www.diodes.com/assets/Datasheets/ds30498.pdf
+$ENDCMP
+# end doc library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP W25Q32JWZPIQ
-D 32M-bit Serial Flash Memory with uniform 4KB sectors and Dual/Quad SPI
-K
-F https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q32JWZPIQ&type=datasheet
-$ENDCMP
-#
-#End Doc Library
