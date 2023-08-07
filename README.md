@@ -10,7 +10,7 @@ The CORE-V MCU DevKit is an evaluation platform for the OpenHW RISC-V CV32E40P c
 ## About the devkit
 
 This devkit has the following features:
-1. CV32E40P (v1.0.0) RISC-V core + Embedded FPGA
+1. CORE-V MCU (including CV32E40P (v1.0.0) RISC-V core and Quicklogic ArcticPro2 Embedded FPGA)
 2. 4MB Flash memory to hold programs and EFPGA bit images
 3. Onboard Ashling Opella LD JTAG debugger + Serial Consol interface
 4. Offboard JTAG Connector
