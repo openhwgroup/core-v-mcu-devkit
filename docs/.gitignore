@@ -1,0 +1,4 @@
+_build/
+auto-docs/*.md
+*.pdf
+csv-mirror
