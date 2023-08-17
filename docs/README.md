@@ -3,7 +3,7 @@
 ## Prerequisites
 
 You need to install the following Sphinx extensions (in addition to the
-requirements in `../python-requirements.txt`).
+requirements in `../requirements.txt`).
 
 ```
 pip3 install --user recommonmark
