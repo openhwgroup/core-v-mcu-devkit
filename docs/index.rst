@@ -25,4 +25,5 @@
     doc-src/overview.rst
     doc-src/hardware-description.rst
     doc-src/software-description.rst
+	doc-src/eFPGA-description.rst
 
