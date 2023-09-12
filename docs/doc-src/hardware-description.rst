@@ -64,7 +64,7 @@ The DevKit board measures 75 mm x 100 mm.
 
 The figure below provides a top elevation visualization of the DevKit
 
-.. figure:: ../images/OpenHW-DevKit-top.png
+.. figure:: ../images/20230829_Core-V-Dev-Kit-Render-top.png
    :name: DevKit_top_visualization
    :align: center
    :alt: 
@@ -74,7 +74,7 @@ The figure below provides a top elevation visualization of the DevKit
 
 The figure below provides a angle (isometric) elevation visualization of the DevKit
 
-.. figure:: ../images/OpenHW-DevKit-angle.png
+.. figure:: ../images/20230829_Core-V-Dev-Kit-Render-GG-Main.png
    :name: DevKit_angle_visualization
    :align: center
    :alt: 
